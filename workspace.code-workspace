@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\1st sem"
+		},
+		{
+			"path": "..\\web design"
+		},
+		{
+			"path": "..\\learning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web design"
+	}
+}
